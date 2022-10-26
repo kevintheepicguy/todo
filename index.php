@@ -3,7 +3,7 @@
 <body>
     
 <?php
-$con = mysqli_connect("192.168.1.134","root","root", "test");
+$con = mysqli_connect("192.168.1.134","root","____", "todo");
 
 // Check connection
 if (mysqli_connect_errno()) {
